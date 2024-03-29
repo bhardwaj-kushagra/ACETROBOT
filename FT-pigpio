@@ -1,3 +1,4 @@
+#raspberrypiPanTiltFaceTrackingOpenCV
 #pigpio module for servo instead of RPi.GPIO in Raspberry pi avoids jittering.
 import cv2
 from picamera.array import PiRGBArray
